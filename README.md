@@ -1,6 +1,6 @@
 # ResponseLayout
 移动端布局通用解决方案
-<p>欢迎使用<b>wangEditor 富文本编辑器</b>，请输入内容...</p><p><br></p><pre style="max-width: 100%;"><code class="html hljs xml" codemark="1"><span class="hljs-meta">&lt;!DOCTYPE html&gt;</span>
+<pre style="max-width: 100%;"><code class="html hljs xml" codemark="1"><span class="hljs-meta">&lt;!DOCTYPE html&gt;</span>
 <span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span>&gt;</span>
 <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
 	<span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">"UTF-8"</span>&gt;</span>
